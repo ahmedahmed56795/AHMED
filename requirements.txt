@@ -1,0 +1,4 @@
+pyTelegramBotAPI
+python-aliexpress-api
+python-dotenv
+requests
